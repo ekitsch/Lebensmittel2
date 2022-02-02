@@ -4,3 +4,4 @@ die Kaffeebohnen
 das Wasser
 die Hafermilch
 der Ingwer Tee
+der Spinat
