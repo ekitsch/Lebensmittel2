@@ -3,3 +3,4 @@ zucker
 kaffeebohne
 wasser
 hafer milch
+tee
